@@ -16,5 +16,7 @@
   * [Index...](Travel/index.md)
 
 [小经验]()
-  * [33条小经验](littleex/33experience.md)
+
+  * [33条军规](library/littleex/33experience.md)
+
 
