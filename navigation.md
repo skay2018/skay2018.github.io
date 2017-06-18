@@ -2,21 +2,25 @@
 
 [怀斯曼生成手册]()
 
-  * [Index...](Technology/index.md)
+  * [Index...](library/index.md)
   - - - -
   * # [Linux]
-  * [Index...](Technology/Linux/index.md)
-  * [Debug](Technology/Linux/Debug/index.md)
+  * [Index...](library/Linux/index.md)
+  * [Debug](library/Linux/Debug/index.md)
   - - - -
   * # [Network]
-  * [Index...](Technology/Network/index.md)
+  * [Index...](library/Network/index.md)
 
 [Travel]()
 
-  * [Index...](Travel/index.md)
+  * [Index...](library/index.md)
 
 [小经验]()
 
   * [33条军规](library/littleex/33experience.md)
+  - - - - 
+  * #[其他]
+  * [基本装备一览表](library/littleex/other/zblist.md)
+  * [正确使用装备](library/littleex/other/zbok.md)
 
 
