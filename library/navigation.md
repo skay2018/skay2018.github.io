@@ -1,6 +1,6 @@
-# My Wiki
+# 户外知识alpha1.0
 
-[Technology]()
+[怀斯曼生成手册]()
 
   * [Index...](Technology/index.md)
   - - - -
@@ -15,9 +15,6 @@
 
   * [Index...](Travel/index.md)
 
-[Blog](https://zohead.com/)
+[小经验]()
+  * [33条小经验](littleex/33experience.md)
 
-[🔍]()
-
-  * # Search file name or content.
-  * [<input id="search_input" type="text"/>](#)
